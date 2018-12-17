@@ -1,0 +1,6 @@
+{
+  "home": "src/pages/home/index.vue",
+  // css section
+  "css-border": "src/pages/css/css-border.vue",
+  "css-background": "src/pages/css/css-background.vue"
+}

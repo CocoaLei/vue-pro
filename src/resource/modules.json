@@ -1,0 +1,37 @@
+{
+  "modules" : [
+    {
+      "title" : "CSS",
+      "rows": [
+        {
+          "title": "css-border",
+          "path": "/css/border"
+        },
+        {
+          "title": "css-background",
+          "path": "/css/background"
+        },
+        {
+          "title": "css-stripes",
+          "path": "/css/stripes"
+        },
+        {
+          "title": "css-shape",
+          "path": "/css/shape"
+        }
+      ]
+    },
+    {
+      "title" : "HTML",
+      "rows": [
+
+      ]
+    },
+    {
+      "title" : "JavaScript",
+      "rows": [
+
+      ]
+    }
+  ]
+}
